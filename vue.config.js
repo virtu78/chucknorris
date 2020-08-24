@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath:'/chucknorris/',
   pwa: {
     name: 'Mind Games',
     themeColor: '#009688',

@@ -1,8 +1,10 @@
 .DS_Store
 node_modules
-/dist
+#/dist
 package-lock.json
-
+.gitignore
+/src/.gitignore
+vue.config.js
 # local env files
 .env.local
 .env.*.local
